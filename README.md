@@ -1,1 +1,1 @@
-# buzzchat
+# Chat Application
